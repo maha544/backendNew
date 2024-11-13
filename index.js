@@ -37,6 +37,6 @@ mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopol
 //     console.log("error connecting to DB", err);
 // });
 
-// 4hxfedv29JaetJL8 password mangodb ka
+// 4hxfedv29JaetJL8
 
 //  mongodb+srv://sohashahid75:<db_password>@clusterhackathon.wazfp.mongodb.net/
